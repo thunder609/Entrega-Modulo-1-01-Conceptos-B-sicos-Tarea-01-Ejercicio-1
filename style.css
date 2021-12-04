@@ -37,3 +37,7 @@ img{
     font-style: initial;
     font-weight: 900;
 }
+.Titulo:hover{
+       color: rgb(66, 91, 182);
+
+}
