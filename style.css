@@ -9,16 +9,13 @@ body {
     font-weight: 800;
 }
 
-#imagen1{
+img{
     width: 400px;
      margin:auto;
      display:block;
      height: 400;
-}
-     #imagen1:hover {
-        -o-transform:scale(1);
-    } 
 
+}
 #parrafo1{
 
     text-indent: 30px;
