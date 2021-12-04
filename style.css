@@ -16,8 +16,7 @@ body {
      height: 400;
 }
      #imagen1:hover {
-        background-color: red;
-        color: white;
+        -o-transform:scale(1);
     } 
 
 #parrafo1{
